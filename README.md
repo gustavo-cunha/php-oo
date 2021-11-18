@@ -1,4 +1,4 @@
-<h1 align="center">Aplicacao PHP do jeito certo</h1>
+<h1 align="center">Aplicação PHP do jeito certo</h1>
 
 ## Projeto
 
@@ -9,11 +9,13 @@ Este é um exemplo de aplicação PHP do jeito certo.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP ^7.2](https://www.php.net/)
-- [Doctrine](https://www.doctrine-project.org/)
+- [Doctrine ORM](https://www.doctrine-project.org/)
 
 Recursos em destaque
 
-- Utilização do padrão Repository com Doctrine ORM
+- Implementação do padrão Repository
+- Uso do ORM Doctrine para abstrair a conexão com o banco de dados
+- Uso do Doctrine Migrations para manter a estrutura do banco de dados
 
 ## Como executar
 
