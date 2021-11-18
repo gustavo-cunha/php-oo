@@ -10,6 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [PHP ^7.2](https://www.php.net/)
 - [Doctrine ORM](https://www.doctrine-project.org/)
+- [SQLite](https://www.sqlite.org/index.html)
 
 Recursos em destaque
 
