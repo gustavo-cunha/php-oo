@@ -8,7 +8,7 @@ Este é um exemplo de aplicação PHP do jeito certo.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [PHP 7.2^]
+- [PHP ^7.2](https://www.php.net/)
 - [Doctrine](https://www.doctrine-project.org/)
 
 Recursos em destaque
