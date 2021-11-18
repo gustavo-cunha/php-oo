@@ -1,0 +1,26 @@
+{
+    "name": "gustavocunha/php-oo",
+    "description": "Exemplo de aplicacao PHP do jeito certo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo",
+            "email": "gustavocunha.gc@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src/"
+        },
+        "files": [
+            "src/Config.php"
+        ]
+    },
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "doctrine/orm": "^2.10",
+        "doctrine/migrations": "^3.3",
+        "symfony/cache": "^5.3"
+    }
+}
