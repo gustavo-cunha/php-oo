@@ -2,7 +2,7 @@
 
 ## Projeto
 
-Este é exemplo de aplicação PHP do jeito certo.
+Este é um exemplo de aplicação PHP do jeito certo.
 
 ## Tecnologias
 
